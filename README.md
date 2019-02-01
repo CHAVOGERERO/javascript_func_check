@@ -9,3 +9,14 @@ if(typeof exists_function_name === 'function'){
     call_function();  
 }
 ~~~
+
+### 예제
+~~~
+    <html>
+        <head>
+        </head>
+        <body>
+            <div></div>
+        </body>
+    </html>
+~~~
