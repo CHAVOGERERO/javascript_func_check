@@ -12,13 +12,13 @@ if(typeof exists_function_name === 'function'){
 
 ### 예제
 ~~~
-    <html>
-        <head>
-        </head>
-        <body>
-            <div></div>
-        </body>
-    </html>
+<html>
+    <head>
+    </head>
+    <body>
+        <div></div>
+    </body>
+</html>
 ~~~
 
 
