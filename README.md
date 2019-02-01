@@ -2,7 +2,7 @@
 javascript function check
 
 
-# 자바스크립트 function 존재여부 체크 후 callback function  
+### 자바스크립트 function 존재여부 체크 후 callback function  
 ~~~
 if(typeof exists_function_name === 'function'){  
     //callback function name  
